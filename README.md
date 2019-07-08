@@ -19,3 +19,8 @@ npm run build
 ```
 npm run test:e2e
 ```
+
+## Links
+
+[nightwatchjs docs](http://nightwatchjs.org/api)
+[video](https://www.youtube.com/watch?v=VLkVC6uLmXs)
